@@ -1,6 +1,6 @@
 # FirstSemesterProjects
-RetailManagementSystem (project)
+RetailManagementSystem 
 A simple management system in python
 
-Slither game (group project)
+Slither game 
 snake game using turtle in python
