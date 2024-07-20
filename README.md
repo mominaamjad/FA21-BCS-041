@@ -1,6 +1,5 @@
 <a id="readme-top"></a>
 
-
 <div align="center">
 
   <h3 align="center">SLITHER</h3>
@@ -14,10 +13,9 @@
 
 ## About The Project
 
-![Slither Project](./images/slither-project.png)
-
 This project is a classic Snake game developed using Python's Turtle library. It was created as a semester project for learning purposes and to practice problem-solving skills.
 
+![Slither Project](./images/slither-project.png)
 
 ### Features
 - Classic Snake game mechanics
@@ -32,17 +30,10 @@ This project is a classic Snake game developed using Python's Turtle library. It
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-<!-- GETTING STARTED -->
 ## Getting Started
-
-
 
 ### Installation
 This is how you can use the code
-
-
 
 1. Clone the repo
    ```sh
@@ -52,10 +43,8 @@ This is how you can use the code
    ```sh
    pip install freegames
    ```
-
-
+   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ### Usage
 
@@ -70,7 +59,6 @@ Use the arrow keys to control the snake's direction:
 * Left arrow: Move left
 * Up arrow: Move up
 * Down arrow: Move down
-
 
 <!--README template credits:-->
 <!--https://github.com/othneildrew/Best-README-Template -->
