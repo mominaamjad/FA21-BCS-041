@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h3 align="center">SLITHER</h3>
+  <h1>SLITHER</h1>
 
   <p align="center">
    A classic Snake game built using Python and the Turtle library.
@@ -15,20 +15,18 @@
 
 This project is a classic Snake game developed using Python's Turtle library. It was created as a semester project for learning purposes and to practice problem-solving skills.
 
-![Slither Project](./images/slither-project.png)
-
 ### Features
 - Classic Snake game mechanics
 - Score tracking
 - Game over detection
 - Simple controls for snake movement
 
+<img src="./images/slither-project.png" height="400px" />
+
 ### Built With
 
 * ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 * ![Turtle](https://img.shields.io/badge/turtle-000000?style=for-the-badge&logo=python&logoColor=ffffff)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Getting Started
 
@@ -43,14 +41,11 @@ This is how you can use the code
    ```sh
    pip install freegames
    ```
-   
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ### Usage
 
 Run the game:
 ```sh
-pip install freegames
+python code.py
 ```
 
 Use the arrow keys to control the snake's direction:
